@@ -2,3 +2,4 @@ physiopy-community-guidelines/_version.py export-subst
 
 *.py eol=lf
 *.rst eol=lf
+docs/_version.py export-subst
